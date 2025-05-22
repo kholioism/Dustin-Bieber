@@ -31,9 +31,8 @@ This project is an RTOS-based autonomous vacuum cleaner built on the STM32F103C8
 ## 🧠 What I Learned
 
 - Real-time task management with FreeRTOS on STM32
-- Efficient sensor integration with multithreaded control
+- Efficient sensor integration with closed-loop control
 - Interfacing motor drivers and sensors in an RTOS environment
-- Embedded systems design using modular, scalable code
 
 ## 🚧 Future Improvements
 
