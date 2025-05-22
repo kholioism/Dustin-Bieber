@@ -13,7 +13,7 @@ This project is an RTOS-based autonomous vacuum cleaner built on the STM32F103C8
 ## 🛠️ Hardware Used
 
 - STM32F103C8T6 ("Blue Pill")
-- HC-SR04 ultrasonic sensors (x2)
+- HC-SR04 ultrasonic sensors (x4)
 - Bumper switches (x2)
 - L298N motor driver
 - 2 DC motors + wheels
