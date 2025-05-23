@@ -16,7 +16,7 @@ This project is an RTOS-based autonomous vacuum cleaner built on the STM32F103C8
 - Bumper switches (x2)
 - L298N motor driver
 - 2 DC motors + wheels
-- Battery pack (7.4V Li-ion or equivalent)
+- Battery pack (11.1 LiPo)
 - 2-wheel custom chassis
 
 ## ⚙️ Software Architecture
