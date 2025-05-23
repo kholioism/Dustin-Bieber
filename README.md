@@ -8,7 +8,6 @@ This project is an RTOS-based autonomous vacuum cleaner built on the STM32F103C8
 - Collision detection via bumper switches
 - DC motor control using PWM via L298N motor driver
 - Task scheduling and multitasking with FreeRTOS
-- Modular and scalable embedded C codebase
 
 ## 🛠️ Hardware Used
 
